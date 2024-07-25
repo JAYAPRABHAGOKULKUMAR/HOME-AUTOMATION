@@ -1,0 +1,1 @@
+Home automation technology connects your devices and appliances for easy, but many IoT based Home Automation projects crash when the Internet speed goes down. With this project, we have build a system without the internet that can automate the Home.
